@@ -3,7 +3,7 @@
 
 Songcamp is committed to fostering a friendly, safe, comfortable and collaborative environment for all gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, race, ethnicity, religion, nationality, age, or level of experience.
 
-We invite all those who participate in the Songcamp ecosystem (Elektra, BPM and Labs included) to help create safe and positive experiences for everyone.
+We invite all those who participate in the Songcamp ecosystem (Chaos, Elektra, BPM and Labs included) to help create safe and positive experiences for everyone.
 
 ## **Our Goal**
 
